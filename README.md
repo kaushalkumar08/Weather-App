@@ -15,4 +15,4 @@ This is a Streamlit app that provides weather updates for a specified city and g
 
 ## Demo
 
-You can access the deployed app [https://weather-app-jjagqxo9i7swhf9ttfrufg.streamlit.app/](#)
+You can access the deployed app [WeatherApp](https://weather-app-jjagqxo9i7swhf9ttfrufg.streamlit.app/).
